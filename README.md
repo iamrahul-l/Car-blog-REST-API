@@ -120,7 +120,7 @@ package.json        # Project dependencies and scripts
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/blog-api-server.git
+   git clone https://github.com/iamrahul-l/car-blog-REST-API.git
    cd blog-api-server
    ```
 
