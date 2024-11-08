@@ -196,20 +196,6 @@ package.json        # Project dependencies and scripts
 - **404 Not Found**: Returned if a post with a specified ID does not exist.
 - **400 Bad Request**: If required fields are missing in a POST request.
 
-### Example GitHub README
-
-```markdown
-# Blog API Server
-
-This Express server provides a REST API to manage blog posts in-memory. It supports CRUD operations to create, read, update, and delete blog posts.
-
-## Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/blog-api-server.git
-cd blog-api-server
-```
 
 Install dependencies:
 ```bash
